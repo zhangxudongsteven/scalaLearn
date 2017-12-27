@@ -1,10 +1,10 @@
 course := "progfun1"
-assignment := "funsets"
+assignment := "objsets"
 
 assignmentInfo := AssignmentInfo(
-  key = "FNHHMDfsEeWAGiIAC46PTg",
-  itemId = "WWsVR",
-  premiumItemId = Some("BVa6a"),
-  partId = "IljBE",
+  key = "6PTXvD99EeWAiCIAC7Pj9w",
+  itemId = "d1FGp",
+  premiumItemId = Some("Ogg05"),
+  partId = "7hlkb",
   styleSheet = Some((_: File) / "scalastyle" / "scalastyle_config.xml")
 )

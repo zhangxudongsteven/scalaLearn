@@ -1,10 +1,10 @@
 course := "progfun1"
-assignment := "recfun"
+assignment := "example"
 
 assignmentInfo := AssignmentInfo(
-  key = "SNYuDzZEEeWNVyIAC92BaQ",
-  itemId = "Yljln",
-  premiumItemId = Some("Ey6Jf"),
-  partId = "PzVVY",
+  key = "g4unnjZBEeWj7SIAC5PFxA",
+  itemId = "xIz9O",
+  premiumItemId = None,
+  partId = "d5jxI",
   styleSheet = Some((_: File) / "scalastyle" / "scalastyle_config.xml")
 )

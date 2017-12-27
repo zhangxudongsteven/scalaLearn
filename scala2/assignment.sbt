@@ -1,10 +1,10 @@
 course := "progfun1"
-assignment := "recfun"
+assignment := "funsets"
 
 assignmentInfo := AssignmentInfo(
-  key = "SNYuDzZEEeWNVyIAC92BaQ",
-  itemId = "Yljln",
-  premiumItemId = Some("Ey6Jf"),
-  partId = "PzVVY",
+  key = "FNHHMDfsEeWAGiIAC46PTg",
+  itemId = "WWsVR",
+  premiumItemId = Some("BVa6a"),
+  partId = "IljBE",
   styleSheet = Some((_: File) / "scalastyle" / "scalastyle_config.xml")
 )
