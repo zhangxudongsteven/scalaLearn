@@ -32,7 +32,7 @@ class Prod(e1: Expr, e2: Expr) extends Expr {
 
 #### Solution 2: Pattern Matching
 
-**Case Classes**
+**Case Classes**: 支持模式匹配
 
 ```scala
 trait Expr {
