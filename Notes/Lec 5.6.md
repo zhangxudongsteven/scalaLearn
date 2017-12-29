@@ -97,3 +97,9 @@ indection step:
 // ！！！看视频理解
 ```
 
+
+
+### Lec 6.5 Putting the Pieces Together
+
+a good example, refer to the [vedio](https://www.coursera.org/learn/progfun1/lecture/5vUiM/lecture-6-5-putting-the-pieces-together)
+
